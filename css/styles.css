@@ -634,6 +634,7 @@ h6 {
 }
 .form-field input:focus {
   outline: none;
+  opacity: 1;
   border-color: var(--border-color-active);
 }
 .form-field input:focus + .form-person-icon {
@@ -699,6 +700,7 @@ h6 {
 }
 .textarea-coment:focus {
   outline: none;
+  opacity: 1;
   border-color: var(--border-color-active);
 }
 .modal-checkbox-descr {
